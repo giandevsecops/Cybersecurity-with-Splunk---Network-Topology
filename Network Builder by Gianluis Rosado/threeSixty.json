@@ -1,0 +1,50 @@
+{
+  "version": "3.67.28569.0",
+  "course_id": "6mjPKBJ35zC",
+  "title": "Network Builder by Gianluis Rosado",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Network Builder"
+    },
+    {
+      "title": "Network Builder"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5iHcmDxKOuR",
+      "title": "Network Builder by Gianluis Rosado",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6KQWGxdHL63",
+      "title": "Network Builder by Gianluis Rosado",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5kGZbfxH2iV",
+      "title": "Network Builder by Gianluis Rosado",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5cNQGTR0Sju",
+      "title": "Network Builder by Gianluis Rosado",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5eWHsXDs5Ir",
+      "title": "Network Builder by Gianluis Rosado",
+      "scene_index": "2.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
